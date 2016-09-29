@@ -1,0 +1,22 @@
+{
+  "name": "budget-simplified",
+  "version": "1.0.0",
+  "description": "making managing and writing budget easy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djsiddz/BudgetSimplified.git"
+  },
+  "author": "Siddhesh Thadeshwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djsiddz/BudgetSimplified/issues"
+  },
+  "homepage": "https://github.com/djsiddz/BudgetSimplified#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
